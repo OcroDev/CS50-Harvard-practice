@@ -1,4 +1,14 @@
-h1 {
-  color: blue;
-  text-align: center;
+.container {
+  margin: 20px;
+}
+.row > div {
+  background-color: #74a9f6;
+  font-size: 20px;
+  padding: 20px;
+  border: 2px solid yellowgreen;
+  border-radius: 10px;
+}
+
+body {
+  background-color: #42414d;
 }

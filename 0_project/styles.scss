@@ -1,0 +1,35 @@
+header{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    border: 2px solid red;
+    align-items: flex-end;
+    nav{
+        border: 10px solid black;
+    }
+}
+form {
+  display: inline-block;
+  border: 1px solid green;
+  width: 600px;
+  margin-left: 450px;
+  margin-top: 100px;
+  text-align: center;
+}
+.text{
+    width: 550px;
+    border-radius: 10px;
+    border-color: #293138;
+    background-color: #293138;
+    border-style: none;
+    margin: auto;
+    height: 20px
+}
+#text_search{
+    height: 30px;
+    
+}
+
+body{
+    background-color: #171b1f;
+}
